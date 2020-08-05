@@ -1,4 +1,4 @@
-// using this file is optional
+l// using this file is optional
 // you can also load the code snippets in using your browser's console
 const main = document.getElementById('main');
  
